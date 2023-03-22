@@ -1,5 +1,5 @@
 # MindChallenge-Example
-This example code is for the MindChallenge arduino board created by MindRoad and Wolfram Mathcore. It utelizes a Arduino Nano (ATMega328P, old bootloader) as main controll card with a Adafruit SSD1306 OLED, AHT10 Temperature and air humidity sensor and a BMI160 Gyro and accelerometer, all connected via I2C. In additon the card also sports two momentary buttons.
+This example code is for the MindChallenge arduino board created by MindRoad and Wolfram Mathcore. It utelizes a Arduino Nano (ATMega328P, old bootloader) as main controll card with an Adafruit SSD1306 OLED, AHT10 Temperature and air humidity sensor and a BMI160 Gyro and accelerometer, all connected via I2C. In additon the card also sports two momentary buttons.
 
 ## Setup and necessary downloads
 
